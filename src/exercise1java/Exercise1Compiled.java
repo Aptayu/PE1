@@ -8,15 +8,15 @@ public class Exercise1Compiled {
 		Exercise1Compiled ec = new Exercise1Compiled();
 		System.out.println("Insert the problem number");
 		System.out.println("Problem 1:Palindrom");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
+		System.out.println("Problem 2:TomAndJerry");
+		System.out.println("Problem 3:ConsonantAndVowel");
+		System.out.println("Problem 4:Nth-NthTimes");
+		System.out.println("Problem 5:TotalOfNumbers");
+		System.out.println("Problem 6:SymbolVerify");
+		System.out.println("Problem 7:AscendingNumbers");
+		System.out.println("Problem 8:TargetNumber");
+		System.out.println("Problem 9:Reversestring");
+		System.out.println("Problem 10:Doublestring");
 		Scanner sc= new Scanner(System.in);
 		int p= sc.nextInt();
 		
