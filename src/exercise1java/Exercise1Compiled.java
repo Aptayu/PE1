@@ -7,6 +7,16 @@ public class Exercise1Compiled {
 	public static void main(String[] args) {
 		Exercise1Compiled ec = new Exercise1Compiled();
 		System.out.println("Insert the problem number");
+		System.out.println("Problem 1:Palindrom");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
 		Scanner sc= new Scanner(System.in);
 		int p= sc.nextInt();
 		
